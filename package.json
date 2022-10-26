@@ -1,0 +1,16 @@
+{
+  "name": "pravoce",
+  "version": "1.0.0",
+  "description": "Automatizando VR",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Veronica Goncalves",
+  "license": "MIT",
+  "devDependencies": {
+    "@bahmutov/cy-api": "^2.1.2",
+    "cypress": "^9.5.4"
+  }
+}

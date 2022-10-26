@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://www.vr.com.br/onde-aceita.htm",
+      "chromeWebSecurity": false,
+      "pluginsFile": false,
+      "failOnStatusCode": false,
+    "viewportHeight": 660,
+    "viewportWidth": 1000
+    
+  }
+
